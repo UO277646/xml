@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE personas SYSTEM "Arbol.dtd">
+<personas>
+    
+<persona nombre="Juan" apellidos="Dominguez Alvarez">
+<datos>
+
+<fechaNacimiento>"07/06/01"</fechaNacimiento>
+<lugarNacimiento>"Hospital San Agustin"</lugarNacimiento>
+<coordenadasNacimiento>
+<latitud>"43º33´07´´"</latitud>
+<longitud>"5º56´10´´O"</longitud>
+<altura>"60m"</altura>
+</coordenadasNacimiento>
+<foto>"img/fotoJuan.png"</foto>
+<comentario>"Alumno de la Universidad de Oviedo" </comentario>
+</datos>
+<persona nombre="Emilio" apellidos="Dominguez Gonzalez">
+<datos>
+<fechaNacimiento>"19/11/69"</fechaNacimiento>
+<lugarNacimiento>"Hospital San Agustin"</lugarNacimiento>
+<coordenadasNacimiento>
+<latitud>"43º33´07´´"</latitud>
+<longitud>"5º56´10´´O"</longitud>
+<altura>"60m"</altura>
+</coordenadasNacimiento>
+<foto>"img/fotoEmilio.jpg"</foto>
+<comentario>"Padre de Juan" </comentario>
+</datos>
+<persona nombre="Arturo" apellidos="Dominguez Dominguez">
+<datos>
+<fechaNacimiento>"20/10/32"</fechaNacimiento>
+<lugarNacimiento>"Hospital San Agustin"</lugarNacimiento>
+<coordenadasNacimiento>
+<latitud>"43º33´07´´"</latitud>
+<longitud>"5º56´10´´O"</longitud>
+<altura>"60m"</altura>
+</coordenadasNacimiento>
+<foto>"img/fotoArturo.jpg"</foto>
+<comentario>"Padre de Emilio" </comentario>
+</datos>
+<persona nombre="Alfonso" apellidos="Dominguez Perez">
+<datos>
+<fechaNacimiento>"23/9/00"</fechaNacimiento>
+<lugarNacimiento>"Hospital San Agustin"</lugarNacimiento>
+<coordenadasNacimiento>
+<latitud>"43º33´07´´"</latitud>
+<longitud>"5º56´10´´O"</longitud>
+<altura>"60m"</altura>
+</coordenadasNacimiento>
+<fechaFallecimiento>"12/6/80"</fechaFallecimiento>
+<lugarFallecimiento>"Hospital San Agustin"</lugarFallecimiento>
+<coordenadasFallecimiento>
+<latitud>"43º33´07´´"</latitud>
+<longitud>"5º56´10´´O"</longitud>
+<altura>"60m"</altura>
+</coordenadasFallecimiento>
+<foto>"img/fotoAlfonso.jpg"</foto>
+<comentario>"Padre de Arturo" </comentario>
+</datos>
+</persona>
+<persona nombre="Maria Luisa" apellidos="Dominguez Loise">
+<datos>
+<fechaNacimiento>"23/9/00"</fechaNacimiento>
+<lugarNacimiento>"Hospital San Agustin"</lugarNacimiento>
+<coordenadasNacimiento>
+<latitud>"43º33´07´´"</latitud>
+<longitud>"5º56´10´´O"</longitud>
+<altura>"60m"</altura>
+</coordenadasNacimiento>
+<fechaFallecimiento>
+"20/5/90"
+</fechaFallecimiento>
+<lugarFallecimiento>"Hospital San Agustin"</lugarFallecimiento>
+<coordenadasFallecimiento>
+<latitud>"43º33´07´´"</latitud>
+<longitud>"5º56´10´´O"</longitud>
+<altura>"60m"</altura>
+</coordenadasFallecimiento>
+<foto>"img/fotoMaria.jpg"</foto>
+<comentario>"Madre de Arturo" </comentario>
+</datos>
+</persona>
+</persona>
+<persona nombre="Libia" apellidos="Gonzalez Perez">
+<datos>
+
+<fechaNacimiento>"23/9/31"</fechaNacimiento>
+<lugarNacimiento>"Hospital San Agustin"</lugarNacimiento>
+<coordenadasNacimiento>
+<latitud>"43º33´07´´"</latitud>
+<longitud>"5º56´10´´O"</longitud>
+<altura>"60m"</altura>
+</coordenadasNacimiento>
+<fechaFallecimiento>"12/6/01"</fechaFallecimiento>
+<lugarFallecimiento>"Hospital San Agustin"</lugarFallecimiento>
+<coordenadasFallecimiento>
+<latitud>"43º33´07´´"</latitud>
+<longitud>"5º56´10´´O"</longitud>
+<altura>"60m"</altura>
+</coordenadasFallecimiento>
+<foto>"img/fotoLibia.jpg"</foto>
+<comentario>"Madre de Emilio" </comentario>
+</datos>
+<persona nombre="Javier" apellidos="Gonzalez Gonzalez">
+<datos>
+<fechaNacimiento>"23/9/10"</fechaNacimiento>
+<lugarNacimiento>"Hospital San Agustin"</lugarNacimiento>
+<coordenadasNacimiento>
+<latitud>"43º33´07´´"</latitud>
+<longitud>"5º56´10´´O"</longitud>
+<altura>"60m"</altura>
+</coordenadasNacimiento>
+<fechaFallecimiento>"11/7/91"</fechaFallecimiento>
+<lugarFallecimiento>"Hospital San Agustin"</lugarFallecimiento>
+<coordenadasFallecimiento>
+<latitud>"43º33´07´´"</latitud>
+<longitud>"5º56´10´´O"</longitud>
+<altura>"60m"</altura>
+</coordenadasFallecimiento>
+<foto>"img/fotoJavier.jgp"</foto>
+<comentario>"Padre de Libia" </comentario>
+</datos>
+</persona>
+<persona nombre="Teresa" apellidos="Seiz Valdes">
+<datos>
+<fechaNacimiento>"23/9/09"</fechaNacimiento>
+<lugarNacimiento>"Hospital San Agustin"</lugarNacimiento>
+<coordenadasNacimiento>
+<latitud>"43º33´07´´"</latitud>
+<longitud>"5º56´10´´O"</longitud>
+<altura>"60m"</altura>
+</coordenadasNacimiento>
+<fechaFallecimiento>"21/2/85"</fechaFallecimiento>
+<lugarFallecimiento>"Hospital San Agustin"</lugarFallecimiento>
+<coordenadasFallecimiento>
+<latitud>"43º33´07´´"</latitud>
+<longitud>"5º56´10´´O"</longitud>
+<altura>"60m"</altura>
+</coordenadasFallecimiento>
+<foto>"img/fotoTeresa.jpg"</foto>
+<comentario>"Madre de Emilio" </comentario>
+</datos>
+</persona>
+</persona>      
+</persona>
+<persona nombre="Monica" apellidos="Alvarez Fernandez">
+<datos>
+<fechaNacimiento>"9/8/75"</fechaNacimiento>
+<lugarNacimiento>"Hospital San Agustin"</lugarNacimiento>
+<coordenadasNacimiento>
+<latitud>"43º33´07´´"</latitud>
+<longitud>"5º56´10´´O"</longitud>
+<altura>"60m"</altura>
+</coordenadasNacimiento>
+<foto>"img/fotoMonica.jpg"</foto>
+<comentario>"Madre de Juan" </comentario>
+</datos>
+<persona nombre="Eugenio" apellidos="Alvarez Perez">
+<datos>
+<fechaNacimiento>"2/3/39"</fechaNacimiento>
+<lugarNacimiento>"Hospital San Agustin"</lugarNacimiento>
+<coordenadasNacimiento>
+<latitud>"43º33´07´´"</latitud>
+<longitud>"5º56´10´´O"</longitud>
+<altura>"60m"</altura>
+</coordenadasNacimiento>
+<foto>"img/fotoEugenio.jpg"</foto>
+<comentario>"Abuelo por parte de madre de Juan" </comentario>
+</datos>
+<persona nombre="Alejandro" apellidos="Alvarez Copo">
+<datos>
+<fechaNacimiento>"23/9/10"</fechaNacimiento>
+<lugarNacimiento>"Hospital San Agustin"</lugarNacimiento>
+<coordenadasNacimiento>
+<latitud>"43º33´07´´"</latitud>
+<longitud>"5º56´10´´O"</longitud>
+<altura>"60m"</altura>
+</coordenadasNacimiento>
+<fechaFallecimiento>"12/6/80"</fechaFallecimiento>
+<lugarFallecimiento>"Hospital San Agustin"</lugarFallecimiento>
+<coordenadasFallecimiento>
+<latitud>"43º33´07´´"</latitud>
+<longitud>"5º56´10´´O"</longitud>
+<altura>"60m"</altura>
+</coordenadasFallecimiento>
+<foto>"img/fotoAlejandro.jpg"</foto>
+<comentario>"Padre de Eugenio" </comentario>
+</datos>
+</persona>
+<persona nombre="Maria Isabel" apellidos="Perez Gutierrez">
+<datos>
+<fechaNacimiento>"23/9/11"</fechaNacimiento>
+<lugarNacimiento>"Hospital San Agustin"</lugarNacimiento>
+<coordenadasNacimiento>
+<latitud>"43º33´07´´"</latitud>
+<longitud>"5º56´10´´O"</longitud>
+<altura>"60m"</altura>
+</coordenadasNacimiento>
+<fechaFallecimiento>"11/3/70"</fechaFallecimiento>
+<lugarFallecimiento>"Hospital San Agustin"</lugarFallecimiento>
+<coordenadasFallecimiento>
+<latitud>"43º33´07´´"</latitud>
+<longitud>"5º56´10´´O"</longitud>
+<altura>"60m"</altura>
+</coordenadasFallecimiento>
+<foto>"img/fotoMariaIsabel.jpg"</foto>
+<comentario>"Madre de Eugenion" </comentario>
+</datos>
+</persona>
+</persona>
+<persona nombre="Camila" apellidos="Fernandez Fernandez">
+<datos>
+<fechaNacimiento>"13/6/41"</fechaNacimiento>
+<lugarNacimiento>"Hospital San Agustin"</lugarNacimiento>
+<coordenadasNacimiento>
+<latitud>"43º33´07´´"</latitud>
+<longitud>"5º56´10´´O"</longitud>
+<altura>"60m"</altura>
+</coordenadasNacimiento>
+<foto>"img/fotoCamila.jpg"</foto>
+<comentario>"Abuela por parte de madre de Juan" </comentario>
+</datos>
+<persona nombre="Feliciano" apellidos="Fernandez Alvarez">
+<datos>
+<fechaNacimiento>"22/3/19"</fechaNacimiento>
+<lugarNacimiento>"Hospital San Agustin"</lugarNacimiento>
+<coordenadasNacimiento>
+<latitud>"43º33´07´´"</latitud>
+<longitud>"5º56´10´´O"</longitud>
+<altura>"60m"</altura>
+</coordenadasNacimiento>
+<fechaFallecimiento>"12/6/01"</fechaFallecimiento>
+<lugarFallecimiento>"Hospital San Agustin"</lugarFallecimiento>
+<coordenadasFallecimiento>
+<latitud>"43º33´07´´"</latitud>
+<longitud>"5º56´10´´O"</longitud>
+<altura>"60m"</altura>
+</coordenadasFallecimiento>
+<foto>"img/fotoFeliciano.jpg"</foto>
+<comentario>"Madre de Emilio" </comentario>
+</datos>
+</persona>
+<persona nombre="Lucia" apellidos="Fernandez Guardado">
+<datos>
+<fechaNacimiento>"23/9/21"</fechaNacimiento>
+<lugarNacimiento>"Hospital San Agustin"</lugarNacimiento>
+<coordenadasNacimiento>
+<latitud>"43º33´07´´"</latitud>
+<longitud>"5º56´10´´O"</longitud>
+<altura>"60m"</altura>
+</coordenadasNacimiento>
+<fechaFallecimiento>"08/9/98"</fechaFallecimiento>
+<lugarFallecimiento>"Hospital San Agustin"</lugarFallecimiento>
+<coordenadasFallecimiento>
+<latitud>"43º33´07´´"</latitud>
+<longitud>"5º56´10´´O"</longitud>
+<altura>"60m"</altura>
+</coordenadasFallecimiento>
+<foto>"img/fotoLucia.jpg"</foto>
+<comentario>"Madre de Emilio" </comentario>
+</datos>
+</persona>
+</persona>
+</persona>
+</persona>
+
+
+
+</personas>
